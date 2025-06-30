@@ -7,3 +7,6 @@ This will be a starter's guide for getting started with BluePrism. Requires Wind
 3. Retrieve license file via email associated with BluePrism account
 4. Install Blue Prism [Automate - Learners Edition](https://digitalexchange.blueprism.com/cardDetails?id=12123)
 5. Log into Automate application using Blue Prism credentials
+
+Example Documentation Source for calculate functions:
+https://docs.blueprism.com/en-US/bundle/blue-prism-enterprise-7-4/page/helpCalculationsAndDecisions.htm
